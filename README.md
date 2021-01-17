@@ -2,10 +2,10 @@
 
 [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
 
-[angular-cli-ghpages](https://www.npmjs.com/package/angular-cli-ghpages) version 1.0.0-rc.1.
+📦[angular-cli-ghpages](https://www.npmjs.com/package/angular-cli-ghpages) version 1.0.0-rc.1.
 
 
-## 🚀 Quick Start (local development)
+## 🚀 Quick Start
 1. Install the latest version of the Angular CLI globally and create a new Angular project.
 
 `npm install -g @angular/cli`
@@ -21,7 +21,7 @@ To add a new remote for GitHub, use the git remote add command:
 `git remote add origin https://github.com/<username>/<repositoryname>.git`
 
 
-3. Add `angular-cli-ghpages` to your project.
+3. Add angular-cli-ghpages to your project.
 
 `ng add angular-cli-ghpages`
 
